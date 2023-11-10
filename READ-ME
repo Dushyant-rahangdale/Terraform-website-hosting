@@ -1,0 +1,1 @@
+This repo contain code to create the AWS resource which can host website on two linux in private subnet and can blance the load using the ALB (application loadbalancer)
